@@ -1,0 +1,44 @@
+# React
+node_modules/
+build/
+dist/
+/.pnp
+.pnp.js
+
+# Testing
+coverage/
+
+# Misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Linting
+.eslintcache
+.prettierignore
+
+# Yarn
+.yarn/
+.yarnrc.yml
+yarn.lock
+
+## Python
+*.pyc
+__pycache__/
+venv/
+.env
+
+# Django
+db.sqlite3
+*.sqlite3
+
+# Logs
+*.log
+
+# VSCode
+.vscode/
+
+# Caché
+.cache/
